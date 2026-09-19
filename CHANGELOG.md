@@ -2,6 +2,15 @@
 
 本项目遵循[语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [v1.0.1] - 2026-09-19
+
+### 修复
+
+- 修复模块无法被拉取：`docs/` 下中文文件名导致 Go 模块 zip 打包失败
+  （`malformed file path ... invalid char '（'`），v1.0.0 在 proxy.golang.org 与
+  sum.golang.org 上始终 404，`go get github.com/lcylpzls/convertx` 不可用；
+- 新增 `.gitattributes` 将 `docs/` 排除出模块归档，模块恢复可拉取。
+
 ## [v1.0.0] - 2026-08-17
 
 ### 新增
