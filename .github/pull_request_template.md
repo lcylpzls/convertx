@@ -5,7 +5,7 @@
 ## 关联项
 
 - Closes #
-- 对应文档:`docs/07-API接口文档.md` 中的 API 或 docs/architecture.md 中的设计
+- 对应文档:`docs/07-api-reference.md` 中的 API 或 docs/architecture.md 中的设计
 
 ## 验证
 

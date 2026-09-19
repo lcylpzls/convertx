@@ -92,7 +92,7 @@ Go 版本要求：1.26.5+。
 ## 文档
 
 - [架构设计](docs/architecture.md)
-- [API 接口文档](docs/07-API接口文档.md)
+- [API 接口文档](docs/07-api-reference.md)
 - [示例](examples/basic/)
 
 ## 贡献

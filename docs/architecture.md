@@ -1,6 +1,6 @@
 # convertx 架构设计
 
-> 本文档描述 convertx 的实现架构，是 docs/05-系统架构设计文档.md 的落地说明。
+> 本文档描述 convertx 的实现架构，是 docs/05-architecture-design.md 的落地说明。
 
 ## 1. 整体架构
 

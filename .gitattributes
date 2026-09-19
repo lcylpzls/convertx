@@ -1,3 +1,0 @@
-# Go 模块归档只接受受限 ASCII 文件名：docs/ 下为中文文件名文档，
-# 排除出模块 zip，否则 proxy.golang.org / sum.golang.org 无法生成该版本。
-docs/ export-ignore

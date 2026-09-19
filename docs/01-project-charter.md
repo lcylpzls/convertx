@@ -188,8 +188,8 @@ convertx/
 │   ├── ISSUE_TEMPLATE/     # bug / feature 模板
 │   └── pull_request_template.md
 ├── docs/                   # 项目文档（本手册产出物）
-│   ├── 01-项目立项说明书.md
-│   ├── 02-结构化需求清单.md
+│   ├── 01-project-charter.md
+│   ├── 02-requirements-checklist.md
 │   └── ...
 ├── examples/               # 示例代码
 │   └── basic/
@@ -213,7 +213,7 @@ convertx/
 - 根部 `api.go` 仅做类型别名（`type X = core.X`）和函数转发（`func X(...) { return core.X(...) }`），不包含任何业务逻辑
 - 所有实现代码位于 `internal/core/`，外部无法直接引用
 - 测试文件与被测文件同目录（`internal/core/convert_test.go`），使用 `testx` 断言
-- 文档统一放 `docs/`，文件名加两位数字序号前缀（如 `01-项目立项说明书.md`）
+- 文档统一放 `docs/`，文件名加两位数字序号前缀（如 `01-project-charter.md`）
 
 ---
 

@@ -4,7 +4,7 @@
 |------|----------|
 | 文档版本 | v1.0 |
 | 编制日期 | 2026-08-17 |
-| 前置文档 | 01-项目立项说明书.md、02-结构化需求清单.md、03-项目PRD.md、04-开发计划与任务拆解.md |
+| 前置文档 | 01-project-charter.md、02-requirements-checklist.md、03-prd.md、04-development-plan.md |
 
 ---
 

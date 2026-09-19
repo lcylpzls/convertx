@@ -4,7 +4,7 @@
 |------|----------|
 | 文档版本 | v1.0 |
 | 编制日期 | 2026-08-17 |
-| 前置文档 | 03-项目PRD.md、05-系统架构设计文档.md |
+| 前置文档 | 03-prd.md、05-architecture-design.md |
 | 模块路径 | `github.com/lcylpzls/convertx` |
 
 ---
